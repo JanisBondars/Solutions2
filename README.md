@@ -5,10 +5,10 @@ To run any of the following function download solutions.php file and add namespa
 # **Functions:**
 
 ###### maxProfit():
-        Not implemented yet.
+        Not implemented yet!
         
 ###### stringCost():
-        Not implemented yet.
+        Not implemented yet!
         
 ###### incrementalMedian():
 1) Function 'incrementalMedian' creates an array 'median' which will hold all valid results.
